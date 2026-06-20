@@ -35,6 +35,7 @@
 #include <stddef.h>
 #include <stdint.h>
 #include <stdbool.h>
+#include <oqs/oqs.h>
 
 /* ── forward-declare the liboqs types we wrap ─────────────────────────────── */
 typedef struct OQS_KEM OQS_KEM;
