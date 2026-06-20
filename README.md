@@ -1,4 +1,4 @@
-# PQC Abstract Layer — liboqs Wrapper
+# PQC Abstract Layer — qc Wrapper
 
 A clean abstraction layer over [liboqs](https://github.com/open-quantum-safe/liboqs) in both **C** and **Python**.
 
