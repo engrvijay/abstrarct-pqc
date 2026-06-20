@@ -14,14 +14,8 @@
 ---
 
 ## Architecture
-┌──────────────────────────────────────────────┐
-│              Your Application                │
-├──────────────────────────────────────────────┤
-│         pqc_abstract (C / Python)            │
-├──────────────────────────────────────────────┤
-│    Algorithm implementations                 │
-│  ML-KEM  ML-DSA  Falcon  BIKE  FrodoKEM  …   │
-└──────────────────────────────────────────────┘
+<img width="339" height="153" alt="image" src="https://github.com/user-attachments/assets/f8919ae6-d63e-4966-8e3c-19391cbfcd76" />
+
 
 
 
@@ -58,7 +52,7 @@ pip install liboqs-python
 python pqc_example.py
 ```
 
-## Recommended Algorithms (2024–2025)
+## Algorithms (2024–2025)
 | Use case                    | Algorithm   | Standard      |
 | Key exchange (balanced)     | ML-KEM-768  | NIST FIPS 203 |
 | Key exchange (high security)| ML-KEM-1024 | NIST FIPS 203 |
